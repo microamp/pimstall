@@ -1,4 +1,7 @@
-Pimstall: **P**ython V**im** In**stall**er (for GNU/Linux)
+Pimstall
+========
+
++P+ython V+im+ In+stall+er (for GNU/Linux)
 
 ***
 
