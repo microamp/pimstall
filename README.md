@@ -1,7 +1,7 @@
 Pimstall
 ========
 
-**P**ython V**im** In**stall**er (for GNU/Linux)
+A simple Vim setup helper written in Python under GNU/Linux
 
 Requirements
 ------------
