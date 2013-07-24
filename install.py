@@ -7,7 +7,7 @@ import zipfile
 import requests
 
 from sources import BASE_URL, SOURCES
-from exceptions import FileTypeNotSupported
+from errors import FileTypeNotSupported
 
 VIM_DIR = ".vim"
 VIM_RC = ".vimrc"
@@ -104,7 +104,6 @@ def install():
             installer = installers[file_ext]
             if downloaded and installer:
                 installer(filename)
-
 
 if __name__ == "__main__":
     try:
