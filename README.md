@@ -1,14 +1,8 @@
-Pimstall
-========
+pimstall
+--------
 
-A simple Vim setup helper written in Python under GNU/Linux
+a simple Vim setup helper written in Python for GNU/Linux
 
-Requirements
-------------
-- Vim >= 7
-- Python 3.3.0
-- requests>=1.1.0
-
-Usage
+usage
 -----
 `python install.py`
